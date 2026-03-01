@@ -1,0 +1,10 @@
+torch
+torchaudio
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+gradio
+
