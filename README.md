@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Лабораторная работа 1
 
 **Дисциплина:** Системы искусственного интеллекта и машинное обучение  
@@ -69,3 +70,7 @@
 - Документация scikit-learn: https://scikit-learn.org/stable/
 - Документация statsmodels: https://www.statsmodels.org/
 - Dataset (Kaggle): https://www.kaggle.com/datasets/mirichoi0218/insurance
+=======
+# nemchenko_ai
+Лабораторные работы по предмету "Системы искусственного интеллекта и машинное обучение" от студента НГТУ Немченко Е.В. гр. АП-226
+>>>>>>> fa083cf80201ad9cedc88df8e8840e91a1bb009a
